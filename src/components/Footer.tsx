@@ -100,7 +100,7 @@ const Footer = () => {
 
 			<div className="py-12 ">
 				<div className="container mx-auto flex flex-col items-center gap-y-6 lg:flex-row lg:justify-between lg:gap-y-0">
-					<div>&copy; 2022 CRAPPO. copyright.</div>
+					<div>&copy; 2023 CRAPPO.</div>
 
 					<div className="flex text-2xl gap-x-8">
 						<a className="hover:text-blue transition" href="#">
